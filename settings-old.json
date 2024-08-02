@@ -1,0 +1,138 @@
+{
+  "workbench.colorTheme": "React Theme",
+  "editor.copyWithSyntaxHighlighting": false,
+  "editor.emptySelectionClipboard": false,
+  "workbench.editor.enablePreview": false,
+  "window.newWindowDimensions": "inherit",
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "none",
+  "editor.snippetSuggestions": "top",
+  "editor.detectIndentation": false,
+  "window.nativeFullScreen": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "zenMode.showTabs": "none",
+  "editor.lineNumbers": "off",
+  "breadcrumbs.enabled": false,
+  "editor.hover.delay": 1500,
+  "editor.hover.enabled": true,
+  "workbench.tips.enabled": false,
+  "editor.colorDecorators": false,
+  "workbench.startupEditor": "none",
+  "editor.lightbulb.enabled": "off",
+  "editor.selectionHighlight": false,
+  "problems.decorations.enabled": false,
+  "editor.renderControlCharacters": false,
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleDeclarations": "goto",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.location": "hidden",
+  "diffEditor.renderSideBySide": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.hideCursorInOverviewRuler": true,
+  "workbench.editor.tabActionCloseVisibility": false,
+  "explorer.decorations.colors": false,
+  "explorer.compactFolders": false,
+  "git.decorations.enabled": false,
+  "editor.bracketPairColorization.enabled": false,
+  "editor.guides.bracketPairsHorizontal": false,
+  "editor.guides.highlightActiveBracketPair": false,
+  "editor.renderLineHighlight": "none",
+  "editor.glyphMargin": false,
+  "workbench.layoutControl.enabled": false,
+  "window.title": "",
+  "editor.cursorBlinking": "solid",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.editor.showTabs": "single",
+  "window.commandCenter": false,
+  "editor.occurrencesHighlight": "off",
+  "editor.matchBrackets": "never",
+  "editor.minimap.enabled": false,
+  "scm.diffDecorationsGutterPattern": {
+    "added": false,
+    "modified": false
+  },
+  "scm.diffDecorations": "none",
+  "scm.diffDecorationsGutterAction": "none",
+  "files.autoSave": "afterDelay",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[java]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+
+  "cSpell.language": "en,es",
+  "cSpell.userWords": ["typeorm"],
+  "editor.accessibilitySupport": "off",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "'Geist Mono',Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.guides.indentation": false,
+  "editor.linkedEditing": true,
+  "editor.overviewRulerBorder": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "indenticator.color.dark": "rgba(255,255,255, 0.1)",
+  "indenticator.width": 0.1,
+  "rapidapi.terminalLink.enabled": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "symbols.hidesExplorerArrows": false,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "workbench.iconTheme": "symbols",
+  "workbench.sideBar.location": "right",
+  "workbench.productIconTheme": "fluent-icons",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "draw.folder.structure.exclude": [
+    "node_modules",
+    ".git",
+    "dist",
+    "wwww",
+    ".next",
+    "out",
+    ".angular",
+    ".idea",
+    ".vscode"
+  ],
+  "security.allowedUNCHosts": ["wsl.localhost"],
+  "security.promptForLocalFileProtocolHandling": false,
+  "dart.flutterSdkPath": "/Users/hanssespinoza/Development/flutter",
+
+  // Add Custom Styles Script
+  "vscode_custom_css.imports": [
+    "file:///Users/hanssespinoza/Development/custom-vscode.css",
+    "file:///Users/hanssespinoza/Development/vscode-script.js"
+  ],
+  "editor.stickyScroll.enabled": false
+}
